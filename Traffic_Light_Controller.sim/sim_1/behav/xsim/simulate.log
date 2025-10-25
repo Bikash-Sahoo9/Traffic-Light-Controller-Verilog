@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+Time=0 | State=0 | M1=001 M2=001 MT=100 S=100
+Time=95000 | State=1 | M1=001 M2=010 MT=100 S=100
+Time=125000 | State=2 | M1=001 M2=100 MT=001 S=100
+Time=185000 | State=3 | M1=010 M2=100 MT=010 S=100
+Time=215000 | State=4 | M1=100 M2=100 MT=100 S=001
+Time=255000 | State=5 | M1=100 M2=100 MT=100 S=100
+Time=285000 | State=0 | M1=001 M2=001 MT=100 S=100
+Time=365000 | State=1 | M1=001 M2=010 MT=100 S=100
+Time=395000 | State=2 | M1=001 M2=100 MT=001 S=100
+Time=455000 | State=3 | M1=010 M2=100 MT=010 S=100
+Time=485000 | State=4 | M1=100 M2=100 MT=100 S=001
+$finish called at time : 500 ns : File "C:/Users/bikas/Traffic_Light_Controller/Traffic_Light_Controller.srcs/sim_1/new/Traffic_Light_Controller_TB.v" Line 35

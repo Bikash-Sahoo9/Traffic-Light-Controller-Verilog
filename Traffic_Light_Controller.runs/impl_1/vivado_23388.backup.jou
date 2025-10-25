@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Oct 24 17:54:37 2025
+# Process ID         : 23388
+# Current directory  : C:/Users/bikas/Traffic_Light_Controller/Traffic_Light_Controller.runs/impl_1
+# Command line       : vivado.exe -log Traffic_Light_Controller.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Traffic_Light_Controller.tcl -notrace
+# Log file           : C:/Users/bikas/Traffic_Light_Controller/Traffic_Light_Controller.runs/impl_1/Traffic_Light_Controller.vdi
+# Journal file       : C:/Users/bikas/Traffic_Light_Controller/Traffic_Light_Controller.runs/impl_1\vivado.jou
+# Running On         : BIKASH
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-1240P
+# CPU Frequency      : 2112 MHz
+# CPU Physical cores : 12
+# CPU Logical cores  : 16
+# Host memory        : 16869 MB
+# Swap memory        : 5416 MB
+# Total Virtual      : 22285 MB
+# Available Virtual  : 2210 MB
+#-----------------------------------------------------------
+source Traffic_Light_Controller.tcl -notrace
